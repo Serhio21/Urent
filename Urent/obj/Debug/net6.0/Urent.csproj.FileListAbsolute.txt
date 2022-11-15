@@ -1,0 +1,15 @@
+C:\Users\minae\source\repos\Urent\Urent\bin\Debug\net6.0\Urent.exe
+C:\Users\minae\source\repos\Urent\Urent\bin\Debug\net6.0\Urent.deps.json
+C:\Users\minae\source\repos\Urent\Urent\bin\Debug\net6.0\Urent.runtimeconfig.json
+C:\Users\minae\source\repos\Urent\Urent\bin\Debug\net6.0\Urent.dll
+C:\Users\minae\source\repos\Urent\Urent\bin\Debug\net6.0\Urent.pdb
+C:\Users\minae\source\repos\Urent\Urent\obj\Debug\net6.0\Urent.csproj.AssemblyReference.cache
+C:\Users\minae\source\repos\Urent\Urent\obj\Debug\net6.0\Urent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minae\source\repos\Urent\Urent\obj\Debug\net6.0\Urent.AssemblyInfoInputs.cache
+C:\Users\minae\source\repos\Urent\Urent\obj\Debug\net6.0\Urent.AssemblyInfo.cs
+C:\Users\minae\source\repos\Urent\Urent\obj\Debug\net6.0\Urent.csproj.CoreCompileInputs.cache
+C:\Users\minae\source\repos\Urent\Urent\obj\Debug\net6.0\Urent.dll
+C:\Users\minae\source\repos\Urent\Urent\obj\Debug\net6.0\refint\Urent.dll
+C:\Users\minae\source\repos\Urent\Urent\obj\Debug\net6.0\Urent.pdb
+C:\Users\minae\source\repos\Urent\Urent\obj\Debug\net6.0\Urent.genruntimeconfig.cache
+C:\Users\minae\source\repos\Urent\Urent\obj\Debug\net6.0\ref\Urent.dll
