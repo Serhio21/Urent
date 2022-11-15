@@ -72,13 +72,14 @@
     {
         Console.WriteLine($"Вы хотите взять страховку для {i}-ого самоката?");
         string msg = Console.ReadLine();
+        msg.ToLower();
 
-        if (msg == "Да" || msg == "да")
+        if (msg == "да")
         {
             straxovka = 35;
             Console.WriteLine($"Страховка = {straxovka}");
         }
-        else if (msg == "Нет" || msg == "нет")
+        else if (msg == "нет")
         {
             straxovka = 0;
             Console.WriteLine($"Страховка = {straxovka}");
@@ -105,8 +106,9 @@
     {
         Console.WriteLine("Есть ли у вас промокод?");
         promo = Console.ReadLine();
+        promo.ToLower();
 
-        if (promo == "Да" || promo == "да")
+        if (promo == "да")
         {
             Console.WriteLine("Ввдеите промокод: ");
             promo2 = Console.ReadLine();
@@ -127,7 +129,7 @@
                 Console.WriteLine($"Сумма к оплате = {sum}");
             }
         }
-        else if (promo == "Нет" || promo == "нет")
+        else if (promo == "нет")
         {
             Console.WriteLine($"Сумма к оплате {sum} рублей");
         }
